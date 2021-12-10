@@ -1,9 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="aece0292-f740-40e0-a4f9-76ff230d0c45" name="Default Changelist" comment="">
+    <list default="true" id="aece0292-f740-40e0-a4f9-76ff230d0c45" name="Default Changelist" comment="Update resume">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,11 +63,50 @@
       <workItem from="1613047591270" duration="8604000" />
       <workItem from="1613140516928" duration="3341000" />
       <workItem from="1638992529108" duration="52000" />
-      <workItem from="1639025511894" duration="390000" />
+      <workItem from="1639025511894" duration="1789000" />
+      <workItem from="1639082907763" duration="84000" />
     </task>
+    <task id="LOCAL-00001" summary="Update resume">
+      <created>1639026120926</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1639026120926</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update resume" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update resume" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="654" y="271" key="#Notifications" timestamp="1639082949541">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="654" y="271" key="#Notifications/0.0.1536.816@0.0.1536.816" timestamp="1639082949541" />
+    <state x="567" y="111" key="RollbackChangesDialog" timestamp="1639026674823">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="567" y="111" key="RollbackChangesDialog/0.0.1536.816@0.0.1536.816" timestamp="1639026674823" />
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1639026133311">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1639026133311" />
   </component>
 </project>
